@@ -4,7 +4,7 @@
 - compress files as much as possible.
 - use retina technique (srcset).
 - don't forget about lazyload [more info here](https://www.robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/).
-- add wepb support.
+- add webp support.
 - generate sprites for icons and small images that repeat on your page.
 
 ### 2. JS
